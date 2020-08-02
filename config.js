@@ -28,12 +28,12 @@ var config = {
     imgs: {
         "送给我亲爱的小王子": "./imgs/image0.jpeg",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "生~日~快~乐！": "./imgs/image1.jpg",
-        "想要一起过好多个生日": "./imgs/image1.5.jpg",
+        "想要一起过好多个生日": "./imgs/image1.2.jpg",
         "直到我们变成": "./imgs/image1.5.jpg",
         "有着优雅皱纹的长者": "./imgs/image2.jpg",
         "然后在2049年的生日上": "./imgs/image2.5.jpeg",
         "穿越回去": "./imgs/image3.jpg",
-        "告诉2018年的我们": "./imgs/image3.5.png",
+        "告诉2018年的我们": "./imgs/image3.5.jpg",
         "不要方！": "./imgs/image4.png",
         "只要在一起的日子": "./imgs/image5.jpg",
         "就都是好日子": "./imgs/image6.gif",
