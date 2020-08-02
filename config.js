@@ -31,13 +31,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Ready?",
-        play: "Music!",
-        bannar_coming: "锵锵锵!",
-        balloons_flying: "Want More?",
-        cake_fadein: "ケーキ！",
-        light_candle: "要拿你的可吹灭蜡烛吗？",
-        wish_message: "吹！",
-        story: "啊，没灭，吹你的吧！",
+        turn_on: "Ready ?",
+        play: "Music !",
+        bannar_coming: "锵锵锵 !",
+        balloons_flying: "Want More ?",
+        cake_fadein: "カロリーフリケーキ！",
+        light_candle: "要拿出你手机上那根可吹灭的蜡烛吗？",
+        wish_message: "1，2，吹！",
+        story: "啊，没有灭，吹你的吧！",
     }
 };
